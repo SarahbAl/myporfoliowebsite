@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: #000000; /* Text colour */
+  background-color: aqua; /* Page Colour */
+}
+
+
+
+
+#container {
+  width: 100%;
+  /* max-width: 900px; How to Ensure the width does not go beyond this value */
+  height: 100vh; /* Make the height the full screen or viewing size*/
+  margin: 0 auto; /* Align the page in the centre - "auto" makes the left and right margins center the container */
+}
+
+.topics {
+  margin: 2rem;
+  padding-top: 6rem;
+  text-align: justify;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: yellow;
+  align-items: baseline;
+}
+
+
+
+
+#addBorder {
+  border: 0.5em;
+  border-style: solid;
+  border-color: blue;
+}
+
+
+#contactMe h5 {
+  color: #1f75fe;
+}
+
+.list-group {
+  max-width: 30em;
+}
+
+
+.card-header {
+  background-color: aqua;
+  color: white;
+  font-weight: bold;
+}
+
+
+.section {
+  background-color: #1f75fe;
+  color: #1f75fe;
+}
+
+
+.card-footer {
+  text-align: center;
+}
+
+.card h4 {
+  background-color: antiquewhite;
+  
+}
+
+
+
+#nav-tab {
+  text-align: center;
+}
+
+
